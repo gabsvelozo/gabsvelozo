@@ -3,7 +3,7 @@
 ### I am a computer science student, studying about technology and looking to apply new solutions.
 <br>
 - 🔭 I'm currently working on SaudeTec, a web application developed with Python, Django, HTML and CSS <br>
-- 🌱 I’m currently learning about Software Development and Information Security <br>
+- 🌱 I’m currently learning about Software Development, Java and artificial intelligence <br>
 - 📫 How to reach me: gabsmastellari@gmail.com <br>
 - ⚡ Fun fact: I love playing online games and watching movies and series!
 
